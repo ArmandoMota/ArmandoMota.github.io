@@ -4313,7 +4313,8 @@ body.is-preload #banner p {
 /* Header Paragraph */
 
 #banner {
-  padding-top: 9em;
+  padding-top: 7em;
+  padding-bottom: 2em;
 }
 
 #banner p {
