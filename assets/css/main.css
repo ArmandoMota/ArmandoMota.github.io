@@ -4304,9 +4304,10 @@ body.is-preload #banner p {
 }
 
 .headshot img {
-  width: 60%;
+  width: 50%;
   margin: 0;
   display: inline-block;
+  border-radius: 100%;
 }
 
 
