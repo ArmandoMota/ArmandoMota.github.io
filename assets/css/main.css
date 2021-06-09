@@ -4082,6 +4082,7 @@ body.is-preload #banner p {
 
   .wrapper.spotlight:nth-child(2n - 1) .image {
     margin: 0 0 2em 1.75em;
+    align-self: center;
   }
 }
 
@@ -4094,6 +4095,14 @@ body.is-preload #banner p {
     margin: 0 0 1em 0 !important;
     max-width: 85%;
     width: 12em;
+  }
+
+  #one .inner {
+    text-align: center;
+  }
+
+  #one .inner a {
+    font-size: 1.1em;
   }
 }
 
@@ -4313,10 +4322,10 @@ body.is-preload #banner p {
 
 /* Header Paragraph */
 
-#banner {
+/* #banner {
   padding-top: 7em;
   padding-bottom: 2em;
-}
+} */
 
 #banner p {
   font-size: 1.1em;
